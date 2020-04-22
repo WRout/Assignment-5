@@ -1,6 +1,6 @@
 # Assignment #5: Family Ages
 
-**This assignment is a simple webpage of a poem I wrote.**
+**This assignment is a webpage of the ages of my family members, and a little bit of math performed on them.**
 
 ## Getting Started With the Project
 
