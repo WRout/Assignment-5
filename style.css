@@ -1,0 +1,11 @@
+/* https://www.w3schools.com/colors/colors_picker.asp */
+
+.gray{
+  color: gray;
+}
+
+.center{
+  text-align: center;
+  font-family: Arial;
+  background-color: #00ffff;
+}
